@@ -17,7 +17,8 @@ Eclipse IDE
 本项目的所有图片资源均取自网上，若有侵权，请告知。
 
 ## 联系方式
-email：641324093@qq.comgithub:https://github.com/a641324093/TankWar  
+email：641324093@qq.com  
+github:https://github.com/a641324093/TankWar  
 理论上项目过了好几年了，该忘的也忘了差不多了，但是有问题还是可以联系我的。
 
 
