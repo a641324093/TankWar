@@ -5,7 +5,7 @@
 
 ![这里写图片描述](https://github.com/a641324093/TankWar/raw/master/mdImg/tankwar.png)
 ## 开发平台
-Java + AWT控件 
+<p>Java + AWT控件</p> 
 Eclipse IDE
 ## 游戏内容
 双方可操作个一台坦克，且有多个AI坦克，有爆炸特效，医疗包以及不可摧毁的墙壁。游戏中的物体均使用图片实现。
