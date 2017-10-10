@@ -1,6 +1,9 @@
 # 坦克大战 TankWar
 > 该项目是大二时候初学Java时做的，自己制作的一个简单的游戏用于入门，对于熟悉游戏的逻辑有一定的帮助。
+
+
 ##游戏截图
+
 ![这里写图片描述](http://img.blog.csdn.net/20171010213106425?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYTY0MTMyNDA5Mw==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 ##开发平台
 Java + AWT控件 
